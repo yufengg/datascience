@@ -27,6 +27,9 @@ pip install datascience
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### v0.9.6
+- 'move_to_end' and 'move_to_start' can now take integer labels.
+
 ### v0.9.5
 
 - DistributionFormatter added.
